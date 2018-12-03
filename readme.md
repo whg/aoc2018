@@ -9,3 +9,8 @@ Probably best not to try this one at home, part 2 takes ages (hours) to return!
 #### Python
 
 `$ python day2.py input/day2.txt`
+
+### day 3
+#### JavaScript
+
+`$ node day3.py`
