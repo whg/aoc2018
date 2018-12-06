@@ -24,3 +24,8 @@ Probably best not to try this one at home, part 2 takes ages (hours) to return!
 #### Scala
 
 `$ ./day5.scala`
+
+### day 6
+#### D
+
+`$ dmd day6.d && ./day6`
