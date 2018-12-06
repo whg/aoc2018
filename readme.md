@@ -19,3 +19,8 @@ Probably best not to try this one at home, part 2 takes ages (hours) to return!
 #### Perl
 
 `$ perl day4.pl input/day4.txt`
+
+### day 5
+#### Scala
+
+`$ ./day5.scala`
