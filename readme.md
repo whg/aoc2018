@@ -14,3 +14,8 @@ Probably best not to try this one at home, part 2 takes ages (hours) to return!
 #### JavaScript
 
 `$ node day3.py`
+
+### day 4
+#### Perl
+
+`$ perl day4.pl input/day4.txt`
