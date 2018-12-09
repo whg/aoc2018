@@ -1,31 +1,16 @@
-### day 1
-#### bash
+## Advent of Code 2018
 
-`$ ./day1.sh input/day1.txt`
+| Day | Language | Run |
+| --- | --- | --- |
+| **1** | bash | `$ ./day1.sh input/day1.txt` |
+| **2** | Python | `$ python day2.py input/day2.txt` |
+| **3** | JavaScript | `$ node day3.py` |
+| **4** | Perl | `$ ./day4.pl input/day4.txt` |
+| **5** | Scala | `$ ./day5.scala` |
+| **6** | D | `$ dmd day6.d && ./day6` |
+| **7** | Io | `$ io day7.io` |
 
+
+## Notes
+### Day 1
 Probably best not to try this one at home, part 2 takes ages (hours) to return!
-
-### day 2
-#### Python
-
-`$ python day2.py input/day2.txt`
-
-### day 3
-#### JavaScript
-
-`$ node day3.py`
-
-### day 4
-#### Perl
-
-`$ perl day4.pl input/day4.txt`
-
-### day 5
-#### Scala
-
-`$ ./day5.scala`
-
-### day 6
-#### D
-
-`$ dmd day6.d && ./day6`
