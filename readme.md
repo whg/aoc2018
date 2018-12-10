@@ -11,6 +11,7 @@
 | **7** | Io | `$ io day7.io` |
 | **8** | C# | `csc day8.cs && mono day8.exe` |
 | **9** | C++ | `g++ -o day9 day9.cpp && ./day9` |
+| **10** | Clojure | `cd day10; lein run` |
 
 ## Notes
 ### Day 1
