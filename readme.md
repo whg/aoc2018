@@ -9,7 +9,7 @@
 | **5** | Scala | `$ ./day5.scala` |
 | **6** | D | `$ dmd day6.d && ./day6` |
 | **7** | Io | `$ io day7.io` |
-
+| **8** | C# | `csc day8.cs && mono day8.exe` |
 
 ## Notes
 ### Day 1
