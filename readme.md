@@ -12,6 +12,7 @@
 | **8** | C# | `csc day8.cs && mono day8.exe` |
 | **9** | C++ | `g++ -o day9 day9.cpp && ./day9` |
 | **10** | Clojure | `cd day10; lein run` |
+| **11** | Pascal | `fpc day11.pas && ./day11` |
 
 ## Notes
 ### Day 1
