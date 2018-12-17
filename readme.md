@@ -17,7 +17,8 @@
 | 11 | **Pascal** | `$ fpc day11.pas && ./day11` | 
 | 12 | **Haskell** | `$ ghc -dynamic day12.hs && ./day12` |
 | 13 | **Java** | `$ javac day13.java && java Day13` | 
-| 13 | **Octave** | `$ octave day14.m` |
+| 14 | **Octave** | `$ octave day14.m` |
+| 16 | **PHP** | `$ php day16.php` |
 
 ## Notes
 ### Day 1
